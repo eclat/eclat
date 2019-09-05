@@ -1,0 +1,11 @@
+<form [eclatFormGroup]="formGroup">
+    <input type="text" formControlName="name">
+    <form-error name="name"></form-error>
+    <!--<ng-template [errorMatcher]="errorMatcher" eclatFormError="name" let-value>-->
+        <!--{{value}}-->
+    <!--</ng-template>-->
+    <!--<input type="text" formControlName="password">-->
+    <div *eclatFormValue="formGroup; let value">
+        {{value | json}}
+    </div>
+</form>

@@ -1,0 +1,16 @@
+{
+  "name": "@eclat/server",
+  "version": "0.0.2-alpha.11",
+  "peerDependencies": {
+    "@nestjs/common": "^6.2.4",
+    "@nestjs/microservices": "^6.6.7",
+    "@nestjs/typeorm": "^6.1.3",
+    "class-transformer": "^0.2.3",
+    "cls-hooked": "^4.2.2",
+    "graphql": "^14.5.4",
+    "lodash": "^4.17.15",
+    "rxjs": "^6.5.3",
+    "type-graphql": "^0.17.5",
+    "typeorm": "^0.2.18"
+  }
+}

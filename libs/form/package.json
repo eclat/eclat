@@ -1,0 +1,8 @@
+{
+  "name": "@eclat/form",
+  "version": "0.0.32-alpha.0",
+  "peerDependencies": {
+    "@angular/common": "^8.2.4",
+    "@angular/core": "^8.2.4"
+  }
+}

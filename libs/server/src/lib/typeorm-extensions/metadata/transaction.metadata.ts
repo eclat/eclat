@@ -1,0 +1,1 @@
+export const TRANSACTION_METADATA: symbol = Symbol('TRANSACTION_METADATA');
