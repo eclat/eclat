@@ -49,7 +49,7 @@
     "apollo-angular": "^1.8.0",
     "apollo-client": "^2.6.4",
     "apollo-server-fastify": "^2.9.9",
-    "class-transformer": "^0.2.3",
+    "class-transformer": "^0.3.1",
     "cls-hooked": "^4.2.2",
     "core-js": "^3.4.1",
     "fastify": "^2.10.0",
